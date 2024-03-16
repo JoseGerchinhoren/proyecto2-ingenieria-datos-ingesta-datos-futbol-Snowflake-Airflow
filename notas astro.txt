@@ -1,0 +1,20 @@
+abrir terminal de linux y poner:
+astro version, para ver version
+
+astro dev init, para instalar los paquetes para astro
+
+astro dev start, con docker iniciado
+
+- Para instalar airflow:
+pip install apache-airflow
+
+Para usar interfaz de Airflow
+http://localhost:8080/
+usuario:admin 
+contraseña: admin
+
+Para ver contenedores activos:
+astro dev ps
+o
+docker ps
+
